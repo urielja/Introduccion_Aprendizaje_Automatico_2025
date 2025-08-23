@@ -1,6 +1,6 @@
 # Introducción al Aprendizaje Automático
 
-Este curso consiste de tres Módulos. 
+Este Curso consiste de tres Módulos. 
 
 `Introducción.` **Introducción**
 
